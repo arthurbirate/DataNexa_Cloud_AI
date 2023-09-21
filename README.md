@@ -1,5 +1,5 @@
 # DataNexa
-![DETA](https://github.com/arthurbirate/DataNexa_Cloud_AI/assets/91176031/6f94c745-8e66-4fec-8035-89e966eed802)
+![DETA(1)](https://github.com/arthurbirate/DataNexa_Cloud_AI/assets/91176031/45ecede5-e84d-46b4-9bf0-d66424855466)
 
 ## Background
 
