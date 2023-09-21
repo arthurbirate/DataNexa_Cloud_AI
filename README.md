@@ -13,12 +13,21 @@ DataNexa is a leading company specializing in cutting-edge data management solut
    2.Builds predictive models and algorithms.
 
   <img src="https://github.com/arthurbirate/DataNexa_Cloud_AI/assets/91176031/2ed4631c-7f92-47e7-9db0-796475167346" width="300">
+
+  </br>
+</br>
+
 * Asir Faysal Rafin(Data Analyst)
 
    1.Analyzes data to extract valuable insights.</br>
    2.Develops and maintains data reports and dashboards.
   
   <img src="https://github.com/arthurbirate/DataNexa_Cloud_AI/assets/91176031/167dfea6-5748-4005-a422-aff3ccccf419" width="300">
+
+</br>
+</br>
+
+
 
 
 * Birate Kabanza Arthur(Data Engineer)
