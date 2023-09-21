@@ -21,6 +21,12 @@ DataNexa is a leading company specializing in cutting-edge data management solut
   <img src="https://github.com/arthurbirate/DataNexa_Cloud_AI/assets/91176031/167dfea6-5748-4005-a422-aff3ccccf419" width="300">
 
 
+* Birate Kabanza Arthur
+
+   1.Designs and develops data pipelines for collecting, storing, and processing data.</br>
+   2.Integrates data from various sources.
+
+   <img src="https://github.com/arthurbirate/DataNexa_Cloud_AI/assets/91176031/c4fd79d8-b5f6-4d2f-9d32-6180fda7988d" width="300" height="300">
 
 
 
