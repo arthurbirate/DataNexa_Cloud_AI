@@ -11,6 +11,11 @@ DataNexa is a leading company specializing in cutting-edge data management solut
 
    1.Utilizes advanced analytics and machine learning techniques to extract insights from data.</br>
    2.Builds predictive models and algorithms.
+* Asir Faysal Rafin
+
+   1.Analyzes data to extract valuable insights.
+   2.Develops and maintains data reports and dashboards.
+
 
 <img src="https://github.com/arthurbirate/DataNexa_Cloud_AI/assets/91176031/2ed4631c-7f92-47e7-9db0-796475167346" width="300">
 
