@@ -5,7 +5,13 @@
 
 DataNexa is a leading company specializing in cutting-edge data management solutions, empowering businesses to harness the full potential of their data for informed decision-making and innovation.
 
+
+
+
 ## Team
+
+
+
 
 * Gilles Witters(Data Scientist)
 
@@ -14,8 +20,9 @@ DataNexa is a leading company specializing in cutting-edge data management solut
 
   <img src="https://github.com/arthurbirate/DataNexa_Cloud_AI/assets/91176031/2ed4631c-7f92-47e7-9db0-796475167346" width="300">
 
-  </br>
-</br>
+
+
+
 
 * Asir Faysal Rafin(Data Analyst)
 
