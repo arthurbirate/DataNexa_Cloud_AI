@@ -2,3 +2,5 @@
 ![DETA](https://github.com/arthurbirate/DataNexa_Cloud_AI/assets/91176031/6f94c745-8e66-4fec-8035-89e966eed802)
 
 ## Background
+
+is a leading company specializing in cutting-edge data management solutions, empowering businesses to harness the full potential of their data for informed decision-making and innovation.
