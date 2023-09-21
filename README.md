@@ -8,5 +8,6 @@ DataNexa is a leading company specializing in cutting-edge data management solut
 ## Team
 
 * Gilles Witters
-* ![MicrosoftTeams-image](https://github.com/arthurbirate/DataNexa_Cloud_AI/assets/91176031/2ed4631c-7f92-47e7-9db0-796475167346|width=50px)
+<img src="https://github.com/arthurbirate/DataNexa_Cloud_AI/assets/91176031/2ed4631c-7f92-47e7-9db0-796475167346" width="50">
+
 
