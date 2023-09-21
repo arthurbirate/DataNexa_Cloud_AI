@@ -4,3 +4,7 @@
 ## Background
 
 DataNexa is a leading company specializing in cutting-edge data management solutions, empowering businesses to harness the full potential of their data for informed decision-making and innovation.
+
+## Team
+
+* Gilles Witters
